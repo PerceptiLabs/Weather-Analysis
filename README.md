@@ -32,6 +32,8 @@ Got questions, feedback, or want to join a community of machine learning practit
 
 # Original data
 The original dataset can be found here: https://data.mendeley.com/datasets/4drtyfjtfy/1
+
 License: CC BY 4.0
+
 <sup>1</sup> Dataset Credits: Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
 
